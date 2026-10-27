@@ -12,7 +12,7 @@
   "description": "XOOM Toys Factory Production Control System",
   "icons": [
     {
-      "src": "XOOM LOGO.PNG",
+      "src": "XOOM LOGO.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
