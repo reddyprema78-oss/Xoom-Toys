@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Xoom Toys",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Xoom",
+  "start_url": "/",
+  "theme_color": "#FF0000",
+  "id": "com.xoomtoys.production",
+  "description": "XOOM Toys Factory Production Control System"
+}
