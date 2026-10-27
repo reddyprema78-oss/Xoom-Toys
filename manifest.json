@@ -4,18 +4,18 @@
   "display": "standalone",
   "name": "Xoom Toys",
   "orientation": "any",
-  "scope": "/",
+  "scope": "./",
   "short_name": "Xoom",
-  "start_url": "/",
+  "start_url": "./",
   "theme_color": "#FF0000",
   "id": "com.xoomtoys.production",
   "description": "XOOM Toys Factory Production Control System",
   "icons": [
     {
-      "src": "XOOM LOGO.png",
+      "src": "./XOOM%20LOGO.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
     }
   ]
 }
