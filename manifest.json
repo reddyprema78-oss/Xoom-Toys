@@ -9,5 +9,13 @@
   "start_url": "/",
   "theme_color": "#FF0000",
   "id": "com.xoomtoys.production",
-  "description": "XOOM Toys Factory Production Control System"
+  "description": "XOOM Toys Factory Production Control System",
+  "icons": [
+    {
+      "src": "image_10.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
 }
